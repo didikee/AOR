@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AOR.iml" filepath="$PROJECT_DIR$/AOR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aor/aor.iml" filepath="$PROJECT_DIR$/aor/aor.iml" />
+    </modules>
+  </component>
+</project>
